@@ -1,7 +1,4 @@
-### Oi! Me chamo Gabriel Lucena. 👋
-
-- 🌱 Estudando Inglês, Javascript e Organização e Arquitetura de Computadores.
-- 💬 Se quiser falar sobre Jogos e Animes, sou todo ouvidos.
-- ⚡ Fun fact: Amante de One Piece.
+### Oi! Me chamo Gabriel Lucena
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabnhac&exclude_repo=github-readme-stats,gabnhac.github.io) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabnhac)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
